@@ -1,0 +1,11 @@
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\bin\Debug\netcoreapp2.0\AmazonS3Demo.deps.json
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\bin\Debug\netcoreapp2.0\AmazonS3Demo.runtimeconfig.json
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\bin\Debug\netcoreapp2.0\AmazonS3Demo.runtimeconfig.dev.json
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\bin\Debug\netcoreapp2.0\AmazonS3Demo.dll
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.csprojResolveAssemblyReference.cache
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.csproj.CoreCompileInputs.cache
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.AssemblyInfoInputs.cache
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.AssemblyInfo.cs
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\bin\Debug\netcoreapp2.0\AmazonS3Demo.pdb
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.dll
+C:\Users\yans\Documents\MyGitHub\AmazonS3Demo\AmazonS3Demo\obj\Debug\netcoreapp2.0\AmazonS3Demo.pdb
